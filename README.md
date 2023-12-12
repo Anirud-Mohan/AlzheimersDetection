@@ -1,4 +1,4 @@
-# EarlyAlzheimersDetection
+# Early Alzheimers Detection
 
 🌟 Excited to unveil my latest endeavor, "Early Detection of Alzheimer's Disease Using Ensemble Learning Technique". The objective of the Alzheimer's Disease Detection Using Ensemble Approach is to develop a reliable and accurate method for diagnosing Alzheimer's disease at an early stage using medical imaging data, particularly 3D MRI scans.The goal is to help clinicians and medical professionals make an accurate diagnosis of Alzheimer's disease in its early stages, which can greatly improve patient outcomes by enabling earlier intervention and treatment!. 
 
