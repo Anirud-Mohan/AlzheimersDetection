@@ -1,0 +1,9 @@
+import streamlit as st
+
+def app():
+    st.title("About Late Mild Cognitive Impairment")
+    st.markdown("<p style='color: white; text-align: left;'>LMCI stands for Late Mild Cognitive Impairment, which is a subcategory of Mild Cognitive Impairment (MCI). LMCI is characterized by more noticeable cognitive changes that may begin to interfere with daily activities and independence.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color: white; text-align: left;'>People with LMCI may experience difficulty with memory, language, attention, problem-solving, and other cognitive functions. These changes are noticeable enough to be detected through cognitive testing and may indicate the early stages of dementia, particularly Alzheimer's disease.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color: white; text-align: left;'>Like other types of MCI, not everyone with LMCI will progress to dementia, and some people may even experience improvements in cognitive function over time. However, the risk of progression to dementia is higher for people with LMCI than for those with EMCI or no cognitive impairment.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color: white; text-align: left;'>There is currently no cure for LMCI, but there are treatments and interventions that can help slow down the progression of cognitive decline and improve quality of life. These may include medications, cognitive training, lifestyle changes, and management of underlying health conditions. It is important to consult with a healthcare professional if you or someone you know is experiencing symptoms of LMCI or other cognitive changes.</p>", unsafe_allow_html=True)
+    

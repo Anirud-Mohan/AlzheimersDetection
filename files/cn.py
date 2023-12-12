@@ -1,0 +1,9 @@
+import streamlit as st
+
+def app():
+    st.title("About Cognitive Normal")
+    st.markdown("<p style='color: white; text-align: left;'>Cognitive normal refers to the absence of any significant cognitive impairment or decline. It is used to describe individuals who have normal cognitive function, with no noticeable changes or deficits in their memory, language, attention, problem-solving, or other cognitive abilities.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color: white; text-align: left;'>As people age, it is normal to experience some minor changes in cognitive function, such as slower processing speed or difficulty remembering names or numbers. However, these changes do not significantly impact daily activities or independence and are not considered to be cognitive impairment.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color: white; text-align: left;'>Cognitive normal is an important benchmark for healthcare professionals in assessing and diagnosing cognitive impairment or dementia. It provides a baseline for comparison and helps to identify when there is a significant decline in cognitive function.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color: white; text-align: left;'>Maintaining cognitive normal through healthy lifestyle habits, such as regular exercise, a healthy diet, social engagement, and cognitive stimulation, can help to reduce the risk of cognitive decline and dementia. It is important to consult with a healthcare professional if you or someone you know is experiencing changes in cognitive function or memory loss.</p>", unsafe_allow_html=True)
+    
